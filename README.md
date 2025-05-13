@@ -1,6 +1,6 @@
 # Backend MERN - Calendar
 
-## Dev
+## Development
 
 Backend que cree en mi curso de React: de cero a experto
 
